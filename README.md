@@ -1,1 +1,2 @@
-Solução para o teste de avaliação para vaga de programador C# .NET da Agile Content.
+- Solução para o teste de avaliação para vaga de programador Backend (C#/.NET) da Agile Content.
+- As especificações do teste encontram-se no documento Backend_-_CDN_Dev_Technical_Test.pdf
