@@ -1,0 +1,1 @@
+Solução para o teste de avaliação para vaga de programador C# .NET da Agile Content.
